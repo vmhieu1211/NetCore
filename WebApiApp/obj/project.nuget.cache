@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yYJmHNCSQt10tpkF6aLK2Iy/YyVB0NVpXnFooCHgQeZX3quV5BYyDz/X9bQgFqTw2JSZwdiQ7U+4wNzVQ9bLcw==",
+  "dgSpecHash": "ev+fJKmsgoYtKpXYNl49l8Vq8/igjeF5O/I3TE6jSiIoy28RtTMruFyzfY8iVZqhkOMYuOXrWleKpSusIMnLKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\caval\\Source\\Repos\\API\\WebApiApp\\WebApiApp\\WebApiApp\\WebApiApp.csproj",
+  "projectFilePath": "D:\\NetCore\\WebApiApp\\WebApiApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\caval\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\caval\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\caval\\Source\\Repos\\API\\WebApiApp\\WebApiApp\\WebApiApp\\WebApiApp.csproj": {}
+    "D:\\NetCore\\WebApiApp\\WebApiApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\caval\\Source\\Repos\\API\\WebApiApp\\WebApiApp\\WebApiApp\\WebApiApp.csproj": {
+    "D:\\NetCore\\WebApiApp\\WebApiApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\caval\\Source\\Repos\\API\\WebApiApp\\WebApiApp\\WebApiApp\\WebApiApp.csproj",
+        "projectUniqueName": "D:\\NetCore\\WebApiApp\\WebApiApp.csproj",
         "projectName": "WebApiApp",
-        "projectPath": "C:\\Users\\caval\\Source\\Repos\\API\\WebApiApp\\WebApiApp\\WebApiApp\\WebApiApp.csproj",
+        "projectPath": "D:\\NetCore\\WebApiApp\\WebApiApp.csproj",
         "packagesPath": "C:\\Users\\caval\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\caval\\Source\\Repos\\API\\WebApiApp\\WebApiApp\\WebApiApp\\obj\\",
+        "outputPath": "D:\\NetCore\\WebApiApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\caval\\AppData\\Roaming\\NuGet\\NuGet.Config",
